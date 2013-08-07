@@ -15,4 +15,3 @@ content = '薇密安卓推送测试 python api'
 
 jp = jpush.JpushClient(app_key, app_secret, callback_url)
 jp.send_notification_with_imei(imei, app_key, sendno, desc, title, content, 'android')
-

@@ -1,7 +1,7 @@
 #-*- coding: utf8 -*-
 
 # A lightweight wrapper for remote Jpush API
-# Details refer to http://docs.jpush.cn/pages/viewpage.action?pageId=557084
+# Details refer to http://docs.jpush.cn/pages/viewpage.action?pageId=2621796
 
 import hashlib
 import urllib
